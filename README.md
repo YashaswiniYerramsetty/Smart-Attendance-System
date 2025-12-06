@@ -8,11 +8,11 @@ This project is ideal for demonstrating basic Python programming, file handling,
 ---
 
 Features
-Load students from CSV or user input
-Randomly mark attendance as Present or Absent
-Save attendance in a CSV file with details
-Fully interactive and easy to run
-Simple and easy-to-understand Python code
+Load students from CSV or user input,
+Randomly mark attendance as Present or Absent,
+Save attendance in a CSV file with details,
+Fully interactive and easy to run,
+Simple and easy-to-understand Python code.
 
 ---
 
